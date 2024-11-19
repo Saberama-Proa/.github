@@ -1,12 +1,19 @@
-## Olá somos o projeto Saberama 👋
+# Saberama 🚀  
 
-<!--
+Bem-vindo(a) ao **Saberama**! 👋  
 
-**Here are some ideas to get you started:**
+Nosso projeto nasceu com a missão de **ajudar pessoas da Educação de Jovens e Adultos (EJA)** a fortalecer suas habilidades em **alfabetização** e **matemática básica**, utilizando um método de ensino **gamificado**.  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📚 O que é o Saberama?  
+Uma iniciativa que une aprendizado e diversão, oferecendo reforço escolar por meio de atividades interativas e engajantes. Nosso objetivo é proporcionar uma experiência de aprendizado inclusiva, motivadora e acessível para quem busca recuperar ou aprimorar sua formação educacional.  
+
+## 🎯 Por que gamificação?  
+Porque acreditamos que aprender pode (e deve) ser divertido! Com desafios e recompensas, tornamos o estudo mais dinâmico, incentivando o progresso e o interesse contínuo.  
+
+## 🌟 Para quem é o Saberama?  
+- Estudantes da EJA que desejam reforçar seus conhecimentos.  
+- Pessoas que estão ajudando familiares a aprender.  
+- Qualquer pessoa que queira aprender de forma descontraída e eficiente.  
+
+## 💡 Junte-se a nós!  
+Estamos aqui para transformar vidas por meio da educação. Venha fazer parte dessa jornada com a gente!  
