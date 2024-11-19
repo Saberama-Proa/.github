@@ -17,4 +17,4 @@ Porque acreditamos que aprender pode (e deve) ser divertido! Com desafios e reco
 
 ## 💡 Junte-se a nós!  
 Estamos aqui para transformar vidas por meio da educação. Venha fazer parte dessa jornada com a gente!  
-[Visite o site do Saberama](https://linktr.ee/Saber.ama)
+[Visite o nosso Linktree](https://linktr.ee/Saber.ama)
